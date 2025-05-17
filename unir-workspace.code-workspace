@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../unir-web-login"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "unir-web-login"
+	}
+}
